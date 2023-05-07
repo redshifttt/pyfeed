@@ -2,7 +2,6 @@ import feedparser
 import datetime
 import sys
 from prettytable import PrettyTable, PLAIN_COLUMNS
-import fileinput
 
 def generate_datetimes(time_struct):
     published = time_struct
