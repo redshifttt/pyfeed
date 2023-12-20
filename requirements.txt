@@ -1,2 +1,0 @@
-feedparser==6.0.10
-prettytable==3.7.0
